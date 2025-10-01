@@ -1,0 +1,11 @@
+site_name: My Notes
+site_url: https://mbanotestmp.github.io/notes/
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Notes:
+      - First Note: notes/first-note.md
+markdown_extensions:
+  - toc:
+      permalink: true
