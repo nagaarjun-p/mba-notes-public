@@ -6,6 +6,3 @@ nav:
   - Home: index.md
   - Notes:
       - First Note: notes/first-note.md
-markdown_extensions:
-  - toc:
-      permalink: true
