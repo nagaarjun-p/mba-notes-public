@@ -6,5 +6,5 @@ nav:
   - Home: index.md
   - Notes:
       - First Note: notes/first-note.md
-      - Subject 1: docs/notes/
+      - Subject 1:
         - day 1 : docs/notes/subject1/day1.md
